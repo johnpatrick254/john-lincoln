@@ -20,3 +20,22 @@ body{
 	margin-left: 70px;
 	text-align: center;
 }
+#tribute-info{
+	margin: 2% 7%;
+}
+
+#about{
+	text-align: center;
+}
+
+@media only screen and (min-width: 750px) {
+	#acheivements{
+      text-align: center;
+	 
+	}
+	ul {
+		display: inline-block;
+		text-align: left;
+	}
+ }
+	
